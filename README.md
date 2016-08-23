@@ -15,7 +15,9 @@ To do MVC Github에 소스가 있긴 하지만 완성된 소스 코드가 올라
 - http-server npm 설치
 - 에디터, 크롬 브라우저
 - MVC에 대한 기본적인 내용 >> spinbox MVC model >>
-- javascript 파일 생성 //
+- javascript 파일 생성
+
+<br/>
 
 ##Step 1. 각 JS 파일 모듈화하고 의존성 관계 성립하기
 <br/>
