@@ -14,7 +14,7 @@ To do MVC Github에 소스가 있긴 하지만 완성된 소스 코드가 올라
 - ‘use strict’와 JS Hint 로 개발환경 구축하기
 - http-server npm 설치
 - 에디터, 크롬 브라우저
-- MVC에 대한 기본적인 내용 >> spinbox MVC model >>
+- MVC에 대한 기본적인 내용이해하기
 - javascript 파일 생성
 
 <br/>
