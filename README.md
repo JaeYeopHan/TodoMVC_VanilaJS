@@ -117,4 +117,4 @@ To do MVC Github에 소스가 있긴 하지만 완성된 소스 코드가 올라
 <br/>
 
 ##Step 7. ECMA6 문법으로 Refactoring 하기
-* 진행중
+https://github.com/JaeYeopHan/ecma2015_TodoMVC
