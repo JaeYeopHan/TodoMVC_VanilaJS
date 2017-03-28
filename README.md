@@ -5,6 +5,7 @@
 
 
 <br/>
+
 ### 준비 단계
 - HTML / CSS 가져오기 ( index.html , index.css , base.css )
 - ‘use strict’와 JS Hint 로 개발환경 구축하기
@@ -16,7 +17,9 @@
 <br/>
 
 ### Step 1. 각 JS 파일 모듈화하고 의존성 관계 성립하기
+
 <br/>
+
 ### Step 2. To do list Add Item - list 추가하기
 * 1단계. template.js 파일을 작성한다.
   * 1-1. 우선 list에 추가될 html 코드 조각을 template화 하자.
