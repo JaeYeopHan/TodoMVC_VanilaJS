@@ -3,10 +3,9 @@
 
 > To do MVC 공식 홈페이지에서는 각종 프레임워크들로 만들어진 To do MVC 소스들을 볼 수 있습니다. 저는 그 중 pure Javascript 만으로 이루어진 Vanila JS 버전의 소스를 참고하여 이번 프로젝트를 진행하였습니다. To do MVC Github에 소스가 있긴 하지만 완성된 소스 코드가 올라와있었기 때문에 초심자에게는 좀 어려울 것으로 예상됩니다. 그래서 이 부분을 해소하기 위해 순차적으로 어떻게 접근하면 좋을지에 대한 고민을 하면서, 각 소스의 의미를 중점적으로 이번 프로젝트를 정리했습니다.
 
-* [블로그 포스팅](http://asfirstalways.tistory.com/248)
+* [To do MVC 만들기 프로젝트 포스팅 ](http://asfirstalways.tistory.com/248)
 
 <br/>
-
 ### 준비 단계
 - HTML / CSS 가져오기 ( index.html , index.css , base.css )
 - ‘use strict’와 JS Hint 로 개발환경 구축하기
