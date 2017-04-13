@@ -6,6 +6,7 @@
 * [To do MVC 만들기 프로젝트 포스팅 ](http://asfirstalways.tistory.com/248)
 
 <br/>
+
 ### 준비 단계
 - HTML / CSS 가져오기 ( index.html , index.css , base.css )
 - ‘use strict’와 JS Hint 로 개발환경 구축하기
