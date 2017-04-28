@@ -10,7 +10,7 @@
 # 목차
 * [준비단계](#준비-단계)
 * [Step 1. 각 JS 파일 모듈화하고 의존성 관계 성립하기](#step-1-각-js-파일-모듈화하고-의존성-관계-성립하기)
-* [Step 2. To do list Add Item](#step-2.-to-do-list-add-item)
+* [Step 2. To do list Add Item](#step-2-to-do-list-add-itemlist-추가하기)
 * [Step 3. To do list Remove Item (list 제거하기)](#step-3.-to-do-list-remove-itemlist-제거하기)
 * [Step 4. To do list Update Item’s Status (list 상태 수정하기)](#step-4.-to-do-list-update-item’s-statuslist-상태-수정하기)
 * [Step 5. To do list Update Item’s Content (list 내용 수정하기)](#step-5.-to-do-list-update-item’s-contentlist-내용-수정하기)
@@ -31,7 +31,7 @@
 
 <br/>
 
-## Step 2. To do list Add Item
+## Step 2 To do list Add Item(list 추가하기)
 * 1단계. template.js 파일을 작성한다.
   * 1-1. 우선 list에 추가될 html 코드 조각을 template화 하자.
   * 1-2. 이제, 어딘가로부터 넘겨받을 data를 템플릿에 삽입할 메소드를 만들어주자.
