@@ -9,7 +9,7 @@
 
 # 목차
 * [준비단계](#준비-단계)
-* [Step 1. 각 JS 파일 모듈화하고 의존성 관계 성립하기](#Step-1.-각-JS-파일-모듈화하고-의존성-관계-성립하기)
+* [Step-1.-각-JS-파일-모듈화하고-의존성-관계-성립하기](#Step-1.-각-JS-파일-모듈화하고-의존성-관계-성립하기)
 * [Step 2. To do list Add Item (list 추가하기)](#Step-2.-To-do-list-Add-Itemlist-추가하기)
 * [Step 3. To do list Remove Item (list 제거하기)](#Step-3.-To-do-list-Remove-Itemlist-제거하기)
 * [Step 4. To do list Update Item’s Status (list 상태 수정하기)](#Step-4.-To-do-list-Update-Item’s-Statuslist-상태-수정하기)
