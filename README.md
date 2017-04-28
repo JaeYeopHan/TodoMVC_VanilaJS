@@ -8,12 +8,12 @@
 <br/>
 
 ## 목차
-* [Step 1. 각 JS 파일 모듈화하고 의존성 관계 성립하기](#Step 1. 각 JS 파일 모듈화하고 의존성 관계 성립하기)
-* [Step 2. To do list Add Item - list 추가하기](#Step 2. To do list Add Item - list 추가하기)
-* [Step 3. To do list Remove Item - list 제거하기](#Step 3. To do list Remove Item - list 제거하기)
-* [Step 4. To do list Update Item’s Status - list 상태 수정하기](#Step 4. To do list Update Item’s Status - list 상태 수정하기)
-* [Step 5. To do list Update Item’s Content - list 내용 수정하기](#Step 5. To do list Update Item’s Content - list 내용 수정하기)
-* [Step 6. To do list Remove Item Completed - list에서 완료된 항목 삭제하기](#Step 6. To do list Remove Item Completed - list에서 완료된 항목 삭제하기)
+* [Step 1. 각 JS 파일 모듈화하고 의존성 관계 성립하기](##Step 1. 각 JS 파일 모듈화하고 의존성 관계 성립하기)
+* [Step 2. To do list Add Item - list 추가하기](##Step 2. To do list Add Item - list 추가하기)
+* [Step 3. To do list Remove Item - list 제거하기](##Step 3. To do list Remove Item - list 제거하기)
+* [Step 4. To do list Update Item’s Status - list 상태 수정하기](##Step 4. To do list Update Item’s Status - list 상태 수정하기)
+* [Step 5. To do list Update Item’s Content - list 내용 수정하기](##Step 5. To do list Update Item’s Content - list 내용 수정하기)
+* [Step 6. To do list Remove Item Completed - list에서 완료된 항목 삭제하기](##Step 6. To do list Remove Item Completed - list에서 완료된 항목 삭제하기)
 
 ### 준비 단계
 - HTML / CSS 가져오기 ( index.html , index.css , base.css )
