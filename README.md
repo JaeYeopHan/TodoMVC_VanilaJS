@@ -1,3 +1,4 @@
+[![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/JaeYeopHan/TodoMVC_VanilaJS/master?grs=github&t=moon)
 
 # TodoList based MVC Project with Vanila JS
 
