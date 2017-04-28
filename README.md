@@ -14,8 +14,8 @@
 * [Step 3. To do list Remove Item (list 제거하기)](#step-3-to-do-list-remove-itemlist-제거하기)
 * [Step 4. To do list Update Item’s Status (list 상태 수정하기)](#step-4-to-do-list-update-item-statuslist-상태-수정하기)
 * [Step 5. To do list Update Item’s Content (list 내용 수정하기)](#step-5-to-do-list-update-item-contentlist-내용-수정하기)
-* [Step 6. To do list Remove Item Completed (list에서 완료된 항목 삭제하기)](#step-6-to-do-list-remove-item-xompletedlist에서-완료된-항목-삭제하기)
-* [Step 7. ECMA6 문법으로 Refactoring 하기](#step-7-emca6-문법으로-refactoring-하기)
+* [Step 6. To do list Remove Item Completed (list에서 완료된 항목 삭제하기)](#step-6-to-do-list-remove-item-completedlist에서-완료된-항목-삭제하기)
+* [Step 7. ECMA6 문법으로 Refactoring 하기](#step-7-ecma6-문법으로-refactoring-하기)
 
 ## 준비 단계
 - HTML / CSS 가져오기 ( `index.html` , `index.css` , `base.css` )
