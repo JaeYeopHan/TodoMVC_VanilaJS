@@ -12,8 +12,8 @@
 * [Step 1. 각 JS 파일 모듈화하고 의존성 관계 성립하기](#step-1-각-js-파일-모듈화하고-의존성-관계-성립하기)
 * [Step 2. To do list Add Item](#step-2-to-do-list-add-itemlist-추가하기)
 * [Step 3. To do list Remove Item (list 제거하기)](#step-3-to-do-list-remove-itemlist-제거하기)
-* [Step 4. To do list Update Item’s Status (list 상태 수정하기)](#step-4-to-do-list-update-item’s-statuslist-상태-수정하기)
-* [Step 5. To do list Update Item’s Content (list 내용 수정하기)](#step-5-to-do-list-update-item’s-contentlist-내용-수정하기)
+* [Step 4. To do list Update Item’s Status (list 상태 수정하기)](#step-4-to-do-list-update-item-statuslist-상태-수정하기)
+* [Step 5. To do list Update Item’s Content (list 내용 수정하기)](#step-5-to-do-list-update-item-contentlist-내용-수정하기)
 * [Step 6. To do list Remove Item Completed (list에서 완료된 항목 삭제하기)](#step-6-to-do-list-remove-item-xompletedlist에서-완료된-항목-삭제하기)
 * [Step 7. ECMA6 문법으로 Refactoring 하기](#step-7-emca6-문법으로-refactoring-하기)
 
@@ -77,7 +77,7 @@
 
 <br/>
 
-## Step 4 To do list Update Item’s Status(list 상태 수정하기)
+## Step 4 To do list Update Item Status(list 상태 수정하기)
 * 1단계. view.js 파일을 작성한다.
   * 1-1. bind에 itemToggle을 추가한다.
   * 1-2. _getItemId 메소드를 수정해준다.
@@ -93,7 +93,7 @@
 
 <br/>
 
-## Step 5 To do list Update Item’s Content(list 내용 수정하기)
+## Step 5 To do list Update Item Content(list 내용 수정하기)
 * 1단계. view.js 파일을 작성한다.
   * 1-1. bind에 itemEdit을 추가한다.
   * 1-2. bind에 itemEditDone을 추가한다.
