@@ -31,7 +31,7 @@
 
 <br/>
 
-### Step 2. To do list Add Item (list 추가하기)
+### Step 2. To do list Add Item(list 추가하기)
 * 1단계. template.js 파일을 작성한다.
   * 1-1. 우선 list에 추가될 html 코드 조각을 template화 하자.
   * 1-2. 이제, 어딘가로부터 넘겨받을 data를 템플릿에 삽입할 메소드를 만들어주자.
@@ -58,7 +58,7 @@
 
 <br/>
 
-### Step 3. To do list Remove Item (list 제거하기)
+### Step 3. To do list Remove Item(list 제거하기)
 * 1단계. view.js 파일을 작성한다.
   * 1-1. bind에 event 분기를 추가한다.
   * 1-2. prototype에 _getItemId 메소드를 추가한다.
@@ -77,7 +77,7 @@
 
 <br/>
 
-### Step 4. To do list Update Item’s Status (list 상태 수정하기)
+### Step 4. To do list Update Item’s Status(list 상태 수정하기)
 * 1단계. view.js 파일을 작성한다.
   * 1-1. bind에 itemToggle을 추가한다.
   * 1-2. _getItemId 메소드를 수정해준다.
@@ -93,7 +93,7 @@
 
 <br/>
 
-### Step 5. To do list Update Item’s Content (list 내용 수정하기)
+### Step 5. To do list Update Item’s Content(list 내용 수정하기)
 * 1단계. view.js 파일을 작성한다.
   * 1-1. bind에 itemEdit을 추가한다.
   * 1-2. bind에 itemEditDone을 추가한다.
@@ -115,7 +115,7 @@
 
 <br/>
 
-### Step 6. To do list Remove Item Completed (list에서 완료된 항목 삭제하기)
+### Step 6. To do list Remove Item Completed(list에서 완료된 항목 삭제하기)
 * 1단계. view.js 파일을 작성한다.
   * 1-1. bind에 removeCompleted를 추가한다.
 
