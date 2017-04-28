@@ -1,8 +1,13 @@
 <br>
-<span style="color:gray">Markdown Presentations For Developers</span>
+<span style="color:gray">Todo MVC with Vanila JS Project</span>
 <br>
-<span style="color:gray">on</span>
-<br>
-<span style="color:gray">GitHub, GitLab and Bitbucket</span>
 
 ---
+# HSLIDE
+<br>
+<span style="color:gray">Todo MVC with Vanila JS Project</span>
+<br>
+
+---
+# VSLIDE
+<span style="color: black"> slide </span>
